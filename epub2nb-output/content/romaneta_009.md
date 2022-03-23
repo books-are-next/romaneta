@@ -3,16 +3,16 @@ title: Newtonův mozek
 contentType: prose
 ---
 
-Památce  
-paní Elišky Šimáčkové, rozené Keblovy
+_Památce  
+paní Elišky Šimáčkové, rozené Keblovy_
 
-Jsouť věci na nebi a na zemi,  
-o kterýchž moudrost naše nemá zdání.
+_Jsouť věci na nebi a na zemi,  
+o kterýchž moudrost naše nemá zdání._
 
 Hamlet
 
-Ba přísahámbůh, nedal bych tomu víry  
+_Ba přísahámbůh, nedal bych tomu víry  
 bez živého, jistého svědectví  
-svých vlastních očí.
+svých vlastních očí._
 
 Horácio

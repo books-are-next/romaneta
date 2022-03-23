@@ -113,6 +113,8 @@ Přítel stav se učitelem kreslení korunního prince Rudolfa a arcivévodkyn�
 
 Městská rada rodného mého města nechtěla mě za diurnistu, okresní jedno zastupitelstvo nechtělo mě za svého sluhu, a tak stal jsem se nejdříve diletujícím spisovatelem a později žurnalistou, čímž plán v příčině vydání nejkrasších obrazů českých malířů v barvotiscích, když snad právě ne navždy, aspoň na dlouhá léta odročen.
 
+  
+
 Mnohá myšlénka zapustí často kořeny své tak hluboko, že člověku přes všechno vzpírání se i po letech ještě se vrací, jako by chtěla upomenout, že rozechvěvši kdysi mozkové nervy, byla uznána za schopnu života, a přece nebyla zrealizována.
 
 Podobně dělo se i mně.
@@ -622,6 +624,8 @@ Pozoruje, že se můj lék minul úplně účinkem, a nemaje jiného hned v z�
 „Však je již také čas, abych šel, nechci-li tu zůstat do rána; jsou právě tři hodiny s půlnoci.“
 
 Vzav nato klobouk odcházím. Ve dveřích volám ještě „Sbohem!“, přítel však neodpovídá; cynická má otázka byla jej skutečně urazila.
+
+  
 
 Přítelův hněv trval několik dní. Potkali jsem se náhodou několikráte na ulici, ale přítel vždy vzdorovitě ode mne se odvrátil.
 
@@ -1201,6 +1205,8 @@ Musím se však upřímně vyznati, že jsem byl tenkráte v největší míře
 
 Duševně a tělesně uštván i unaven dovlékl jsem se domů. Mým mozkem vířily tisíceré myšlenky a po celou noc – vlastně po několik hodin, jež ještě scházely do rána – nemohl jsem rozčilením ani oka zamhouřiti…
 
+  
+
 Od šťastné noci, v které jsme s přítelem nalezli poklad, jehož vypátrání bylo spojeno s tak bezpříkladným duševním namáháním, uplynula asi tři léta, aniž bych se byl o nenadále zmizelém příteli čeho dověděl. Byltě zmizel, nezůstaviv po sobě ani nejmenší stopy.
 
 Maje zpočátku za to, že stihla jej nějaká nehoda, pátral jsem po něm v prvních dnech po jeho zmizení s horlivostí starostlivého přítele.
@@ -1638,6 +1644,8 @@ Nepromluvil jsem ani slova.
 Nežádal jsem již od přítele, aby mi prokázal ve Vídni podobnou ciceronskou službu, jakou jsem mu byl před lety prokázal v Praze; rozloučil jsem se s ním, a on sám, cítě, co asi v mé duši se děje, nezdržoval mne.
 
 Zanedlouho byl jsem na nádraží a druhého dne časně zrána již v Praze.
+
+  
 
 Od smrti přítele Xaveria uplynuly skoro tři roky, a po celou tu dobu nemohl jsem se odhodlati k návštěvě svatomikulášského chrámu, abych se po letech opět jednou podíval na osudný a tajemný Balkův obraz svatého Xaveria.
 

@@ -1,0 +1,250 @@
+{
+  "author": "Jakub Arbes",
+  "contenttype": "prose",
+  "edition": "beletrie",
+  "identifier": "arbes-romaneta-ef71ed5",
+  "languagecode": "cs",
+  "modified": "2021-12-01T00:00:00.000Z",
+  "publisher": "Městská knihovna v Praze",
+  "publishershort": "mkp",
+  "title": "Romaneta",
+  "revision": "ef71ed5",
+  "generatedAt": {
+    "date": "Wed Mar 23 2022 11:27:19 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1648034839521
+  },
+  "documents": [
+    {
+      "title": "Romaneta",
+      "file": "romaneta_001.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "romaneta_002.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Romaneta",
+      "file": "romaneta_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 1,
+      "prev": "romaneta_001.html",
+      "next": "romaneta_003.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Romaneta",
+      "file": "romaneta_003.html",
+      "words": 3,
+      "chars": 19,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 2,
+      "prev": "romaneta_002.html",
+      "next": "romaneta_004.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Romaneta",
+      "file": "romaneta_004.html",
+      "words": 79,
+      "chars": 537,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 3,
+      "prev": "romaneta_003.html",
+      "next": "romaneta_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Svatý Xaverius • Romaneta",
+      "file": "romaneta_005.html",
+      "words": 78,
+      "chars": 453,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 4,
+      "prev": "romaneta_004.html",
+      "next": "romaneta_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Svatý Xaverius",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Romaneta",
+      "file": "romaneta_006.html",
+      "words": 22957,
+      "chars": 140750,
+      "ideas": 820,
+      "role": "chapter",
+      "order": 5,
+      "prev": "romaneta_005.html",
+      "next": "romaneta_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ukřižovaná • Romaneta",
+      "file": "romaneta_007.html",
+      "words": 89,
+      "chars": 502,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 6,
+      "prev": "romaneta_006.html",
+      "next": "romaneta_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ukřižovaná",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Romaneta",
+      "file": "romaneta_008.html",
+      "words": 38826,
+      "chars": 238092,
+      "ideas": 1569,
+      "role": "chapter",
+      "order": 7,
+      "prev": "romaneta_007.html",
+      "next": "romaneta_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Newtonův mozek • Romaneta",
+      "file": "romaneta_009.html",
+      "words": 36,
+      "chars": 221,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 8,
+      "prev": "romaneta_008.html",
+      "next": "romaneta_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Newtonův mozek",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Romaneta",
+      "file": "romaneta_010.html",
+      "words": 21167,
+      "chars": 131733,
+      "ideas": 847,
+      "role": "chapter",
+      "order": 9,
+      "prev": "romaneta_009.html",
+      "next": "romaneta_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Romaneta",
+      "file": "romaneta_011.html",
+      "words": 42,
+      "chars": 287,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 10,
+      "prev": "romaneta_010.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 83283,
+      "chars": 512629,
+      "ideas": 3296
+    },
+    "chapters": {
+      "words": 83277,
+      "chars": 512594,
+      "ideas": 3291
+    }
+  }
+}

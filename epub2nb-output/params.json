@@ -1,11 +1,15 @@
 {
   "params": {
     "metadata": {
+      "languageCode": "cs",
+      "contentType": "prose",
       "title": "Romaneta",
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Jakub Arbes",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-12-01T00:00:00.000Z"
+      "modified": "2021-12-01T00:00:00.000Z",
+      "edition": "beletrie",
+      "publisherShort": "mkp"
     },
     "elements": {
       "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola",
@@ -13,16 +17,16 @@
       "h2": "MLP-uroven3-nadpis",
       "h3": "",
       "h4": "",
-      "hr": "",
+      "hr": "MLP_hvezdicky",
       "hrBefore": "",
       "hrAfter": "",
       "br": "",
-      "brBefore": "MLP_text_bez1radku\nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku",
-      "brAfter": "",
-      "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I",
+      "brBefore": "MLP_text_bez1radku\nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku\nMLP_verse_-12-12-\nMLP_text_-12-0-\nMLP_text_bez1radku_-12-0-",
+      "brAfter": "MLP_verse_-I-_-0-12-\nMLP-text-bez1radku--0-12\nMLP_text_bez1radku_-0-12-\nMLP_verse_-12-12-\nMLP_verse_-0-12-\nMLP_text_-0-12-",
+      "blockquote": "MLP-dopis-bez1radku--I",
       "figure": "MLP_obrazky\nMLP-obrazky",
-      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b",
-      "strong": "MLP-tiraz-autor-a-nazev\nMLP-licence-paragraf",
+      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b\nMLP_citat \nMLP_venovani\nMLP_znak_kurziva_9b\nMLP_verse_-I-_-0-12-",
+      "strong": "MLP-tiraz-autor-a-nazev\nMLP-licence-paragraf\nMLP_tiraz_autor_a_nazev",
       "remove": "",
       "ignore": ""
     },
@@ -30,6 +34,7 @@
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "romaneta_001.md",
@@ -40,7 +45,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "romaneta_002.md",
@@ -51,7 +57,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "romaneta_003.md",
@@ -62,7 +69,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "romaneta_004.md",
@@ -73,7 +81,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "romaneta_005.md",
@@ -84,7 +93,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "romaneta_006.md",
@@ -95,7 +105,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "romaneta_007.md",
@@ -106,7 +117,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "romaneta_008.md",
@@ -117,7 +129,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "romaneta_009.md",
@@ -128,7 +141,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "romaneta_010.md",
@@ -139,7 +153,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "romaneta_011.md",
@@ -150,7 +165,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           }
         ]
       }
@@ -318,6 +334,6 @@
       "user": "books-are-next",
       "repo": "romaneta"
     },
-    "generatedAt": 1648033726750
+    "generatedAt": 1648034772868
   }
 }

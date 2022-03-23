@@ -619,6 +619,8 @@ A první a jediný z dřívějších známých, jehož jsem vyhledal, byl jsi
 
 Vypravoval mi sice později mnoho víceméně zajímavých podrobností; ale myslím, že několik těchto črtů úplně dostačí k poznání jeho povahy.
 
+  
+
 Minulo několik týdnů.
 
 Přítel navštěvoval mě skoro každodenně.
@@ -1066,6 +1068,8 @@ Sotva však učinil několik kroků, sklesl na zem.
 Přiskočil jsem k němu, ale pomoci mé již nebylo potřebí. Přítel vyskočiv se země, obrátil se a rychle pospíchal touže cestou, kterou jsme byli přišli.
 
 Několik okamžiků díval jsem se za ním, jsa na rozpacích, mám-li jej následovat čili nic. Rozhodl jsem se pro první a pospíšil za ním; ale zanedlouho jsem nabyl přesvědčení, že přítele již nedohoním.
+
+  
 
 Jako před lety, když se byla v bytu Schneidrově udála příhoda, kterou mi byl přítel právě vypravoval, pospíšil jsem za přítelem i tentokráte také do jeho bytu na Malé Straně nedaleko budovy vrchního vojenského velitelstva, avšak nezastal jsem ho.
 
@@ -2413,6 +2417,8 @@ Slíbiv, že přání tomu vyhovím, podal jsem příteli ruku, jenž ji srdečn
 
 Když mi byl přítel ještě připomenul, že mi bude při příležitosti z bojiště psát, rozloučili jsme se…
 
+  
+
 Zvláštní poměry nastaly v Čechách před vypuknutím války.
 
 Nepřítel, jak známo, podceňován a vítězství zbraní rakouských pokládáno všeobecně za jisté.
@@ -2460,6 +2466,8 @@ V přípravách k válce pokračováno v té době s nezměněnou horlivost�
 Doposud mělo se všeobecně za to, že vojsko rakouské vtrhne do země nepřítelovy, an tu znenadání došla telegrafická zvěst, že vojsko pruské překročilo hranice české a Rakušané že – couvají. A téhož dne, kdy tedy bylo již možno, že přítel můj zúčastnil se někde boje, obdržel jsem od něho list třetí a nad očekávání ob­šírný.
 
 Kladu jej zde doslova:
+
+  
 
 … 19. června 1866
 
@@ -2811,9 +2819,13 @@ Lístek, vlastně jen část lístku toho, jenž mi byl darován, přikládám k
 
 Buď zdráv! Bude-li možno, budu ti psát zase co nejdříve.
 
+  
+
 Potud přítelův dopis.
 
 Avšak lístek, o němž se ku konci zmiňuje, že jej k dopisu svému přikládá, přiložen nebyl.
+
+  
 
 Ode dne, kdy došla z bojiště telegrafická zpráva, že překročil nepřítel hranice a vojsko rakouské že couvá, následovaly zprávy z bo­jiště s nepředvídanou rychlostí za sebou. Brzo došla zvěst o bojích a zanedlouho dopraveni do Prahy první ranění z bitek u Podola a Mnichova Hradiště.
 
@@ -3113,6 +3125,8 @@ Vyhověl jsem jeho přání a vyčkav, až byla rakev přivolanými hrobníky s
 
 Pruský lékař však slibu svému nedostál. O výsledku jeho zkoumání nedověděl jsem se ničeho.
 
+  
+
 Následujícího dne obdržel jsem poštou list.
 
 Na první pohled poznal jsem dle adresy, že to list od přítele. Byl rozpečetěn a zase zapečetěn a přitištěno razítko polní pošty pruské.
@@ -3143,7 +3157,7 @@ Nikoli! Nejsme a nebyli jsme takovými nikdy. Jsmeť závislými na tisícerýc
 
 Kdež medle jsou meze dobra a zla? Kdo z nás odvážil by se tvrdit: Až potud – – –
 
-\* \* \*
+* * *
 
   
 
@@ -3155,7 +3169,7 @@ Zdaž neusmívá se jarní slunce právě tak milostně, když ti puká srdce ho
 
 Poměrnou harmonii a částečné usmíření nalezneš jen v díle uměleckém. Zda dílem takovým je svět – – – 
 
- \* \* \*
+* * *
 
   
 
@@ -3163,7 +3177,7 @@ Poměrnou harmonii a částečné usmíření nalezneš jen v díle umělecké
 
 V pýše své domníváme se býti stvořeni k věcem neobyčejným, k životu věčnému, a – přece víme, že život náš je jako pohozená jiskřička; buď vzplane, nebo jen doutná; ale vždy dříve nebo později povlovně hasne, až uhasne navždy.
 
-\* \* \*
+* * *
 
   
 
@@ -3173,6 +3187,6 @@ Vrátil jsem se sice opět k dřívějším svým studiím, která mi byla př�
 
 * * *
 
-[1](./resources/undefined) Zélóta – příslušník radikální nábožensko-politické sekty ve starověké Pales­tině bojující proti nadvládě Říma; horlivý, fanatický stoupenec. Pozn. red.
+[1](./resources/undefined) Zélóta – příslušník radikální nábožensko-politické sekty ve starověké Pales­tině bojující proti nadvládě Říma; horlivý, fanatický stoupenec. _Pozn. red._
 
-[2](./resources/undefined) Bez přípravy, spatra. Pozn. red.
+[2](./resources/undefined) Bez přípravy, spatra. _Pozn. red._
