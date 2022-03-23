@@ -308,6 +308,7 @@ Od té doby jsem o příteli nic již nezvěděl, až po bitvě u Králové Hr
 Obdržel jsem totiž poštou, dle všeho poslední před úplným přerušením spojení poštovního, lístek následujícího znění:
 
   
+  
 
 Vážený pane!
 
@@ -835,6 +836,8 @@ V pozadí a po stranách rakve bylo množství překrásných, vzácných exot
 
 Na rakvi v hlavě byl velký vavřínový věnec, doleji důstojnické čáko a šavle, v nohou pak před rakví bylo viděti jednoduchý epitaf:
 
+  
+
 Bedřich Winscher,
 
 c. k. nadporučík.
@@ -842,6 +845,8 @@ c. k. nadporučík.
 Narozen 7. července 1841,
 
 zemřel 7. července 1866.
+
+  
 
 Překvapení bylo všeobecné. V sále panovalo takové ticho, že bys byl zaslechl i nejjemnější šelest. A tichem tím zazněly po chvíli zdáli, jakoby vycházely z některé z pobočních komnat, tklivé, truchlivé hlasy, pějící známou píseň: „Salve regina“.
 
@@ -1675,7 +1680,7 @@ Zdálo se mi, že slyším divoký smích přítelův a slova:
 
 Hlas přítelův zněl temně; poslední slova sotva jsem doslechl… Pozbyl jsem smyslů úplně.
 
-\* \* \*
+* * *
 
   
 
@@ -1711,7 +1716,7 @@ Chmurnou duší mou šlehnul zásvit jasné myšlenky. Zachvěl jsem se…
 
 Matička povstala, a nahnuvši se ke mně, políbila mne lehce na čelo – – –
 
-\* \* \*
+* * *
 
   
 
@@ -1721,6 +1726,6 @@ Zanechal jsem na čas studií; ale myšlenky, jež mne byly v oné době proná
 
 * * *
 
-[3](./resources/undefined) Hloupý, drzý, urážlivý výrok. Pozn. red.
+[3](./resources/undefined) Hloupý, drzý, urážlivý výrok. _Pozn. red._
 
-[4](./resources/undefined) Přesvědčivě, nápadně, zřejmě. Pozn. red.
+[4](./resources/undefined) Přesvědčivě, nápadně, zřejmě. _Pozn. red._
