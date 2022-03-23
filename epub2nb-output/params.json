@@ -40,9 +40,9 @@
             "filename": "romaneta_001.md",
             "xhtml": "romaneta_001.xhtml",
             "id": 0,
-            "role": "chapter",
+            "role": "cover",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -52,9 +52,9 @@
             "filename": "romaneta_002.md",
             "xhtml": "romaneta_002.xhtml",
             "id": 1,
-            "role": "chapter",
+            "role": "break",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -64,9 +64,9 @@
             "filename": "romaneta_003.md",
             "xhtml": "romaneta_003.xhtml",
             "id": 2,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -76,9 +76,9 @@
             "filename": "romaneta_004.md",
             "xhtml": "romaneta_004.xhtml",
             "id": 3,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -91,10 +91,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hungry": false,
+            "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Svatý Xaverius"
           },
           {
             "filename": "romaneta_006.md",
@@ -104,7 +105,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
+            "devoured": true,
             "hiddenTitle": false,
             "children": []
           },
@@ -115,10 +116,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hungry": false,
+            "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Ukřižovaná"
           },
           {
             "filename": "romaneta_008.md",
@@ -128,7 +130,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
+            "devoured": true,
             "hiddenTitle": false,
             "children": []
           },
@@ -139,10 +141,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hungry": false,
+            "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Newtonův mozek"
           },
           {
             "filename": "romaneta_010.md",
@@ -152,7 +155,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
+            "devoured": true,
             "hiddenTitle": false,
             "children": []
           },
@@ -160,15 +163,16 @@
             "filename": "romaneta_011.md",
             "xhtml": "romaneta_011.xhtml",
             "id": 10,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
-            "hungry": false,
+            "inToc": false,
+            "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
             "children": []
           }
-        ]
+        ],
+        "devoured": false
       }
     ]
   },
@@ -334,6 +338,6 @@
       "user": "books-are-next",
       "repo": "romaneta"
     },
-    "generatedAt": 1648034772868
+    "generatedAt": 1648035157478
   }
 }
