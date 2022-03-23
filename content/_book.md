@@ -1,36 +1,36 @@
 ---
 outputs: meta
 slug: book
-
-languageCode: en-US
+contentType: prose
+languageCode: en
 meta:
-  title: "Next-book Boilerplate"
-  author: "Author Name"
-  publisher: mkp
-  published: 2020
-  keywords: []
-  edition: beletrie
-chapters:
-  - where-i-lived-and-what-i-lived-for.html
-  - reading.html
-  - sounds.html
-  - solitude.html
+  title: Romaneta
+  identifier: urn:uuid:296c0919-9963-415a-a386-6c26c077b931
+  author: Jakub Arbes
+  publisher: Městská knihovna v Praze
+  modified: '2021-12-01T00:00:00.000Z'
+readingOrder:
+  - romaneta_001.html
+  - romaneta_002.html
+  - romaneta_003.html
+  - romaneta_004.html
+  - romaneta_005.html
+  - romaneta_006.html
+  - romaneta_007.html
+  - romaneta_008.html
+  - romaneta_009.html
+  - romaneta_010.html
+  - romaneta_011.html
 tocBase:
-  - link: where-i-lived-and-what-i-lived-for.html
-    title: Where-i-lived-and-what-i-lived-for
-    numberedChildren: true;
-    children:
-      - link: reading.html
-        title: Reading
-      - link: sounds.html
-        title: Sounds
-  - link: solitude.html
-    title: Solitude
+  - id: section-1
+    children: []
+    isSection: true
 static:
   - style
   - scripts
+  - title
   - fonts
-  - images
+  - resources
   - template-images
   - favicon.png
 ---
