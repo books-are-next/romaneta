@@ -1,22 +1,30 @@
 {
-  "author": "Jakub Arbes",
-  "contenttype": "prose",
-  "edition": "beletrie",
-  "identifier": "arbes-romaneta-2382a76",
-  "languagecode": "cs",
-  "modified": "2021-12-01T00:00:00.000Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Romaneta",
-  "revision": "2382a76",
+  "author": "Jakub Arbes",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "arbes-romaneta-d62f438",
+  "revision": "d62f438",
+  "readingOrder": [
+    "promo.html",
+    "romaneta_005.html",
+    "romaneta_007.html",
+    "romaneta_009.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Wed Mar 23 2022 11:34:48 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1648035288387
+    "date": "Thu May 12 2022 10:40:44 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652352044861
   },
   "documents": [
     {
-      "title": "Romaneta",
-      "file": "romaneta_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -24,25 +32,17 @@
       "order": 0,
       "prev": null,
       "next": "romaneta_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
-      "title": "Svatý Xaverius • Romaneta",
+      "title": "Svatý Xaverius",
       "file": "romaneta_005.html",
       "words": 23035,
       "chars": 141203,
       "ideas": 830,
       "role": "chapter",
       "order": 1,
-      "prev": "romaneta_002.html",
+      "prev": "promo.html",
       "next": "romaneta_007.html",
       "toc": [
         {
@@ -55,7 +55,7 @@
       ]
     },
     {
-      "title": "Ukřižovaná • Romaneta",
+      "title": "Ukřižovaná",
       "file": "romaneta_007.html",
       "words": 38915,
       "chars": 238594,
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "title": "Newtonův mozek • Romaneta",
+      "title": "Newtonův mozek",
       "file": "romaneta_009.html",
       "words": 21203,
       "chars": 131954,
@@ -95,11 +95,11 @@
       ]
     },
     {
-      "title": "Tiráž • Romaneta",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 125,
-      "chars": 848,
-      "ideas": 21,
+      "words": 108,
+      "chars": 719,
+      "ideas": 16,
       "role": "colophon",
       "order": null,
       "prev": "romaneta_009.html",
@@ -117,9 +117,9 @@
   ],
   "totals": {
     "all": {
-      "words": 83283,
-      "chars": 512629,
-      "ideas": 3296
+      "words": 83266,
+      "chars": 512500,
+      "ideas": 3291
     },
     "chapters": {
       "words": 83153,

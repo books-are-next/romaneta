@@ -14,7 +14,7 @@ meta:
   edition: beletrie
   publisherShort: mkp
 readingOrder:
-  - romaneta_002.html
+  - promo.html
   - romaneta_005.html
   - romaneta_007.html
   - romaneta_009.html
