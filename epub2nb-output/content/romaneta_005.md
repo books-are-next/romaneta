@@ -3,6 +3,8 @@ title: Svatý Xaverius
 contentType: prose
 ---
 
+<section>
+
 _Jako jest břemeno nesoucímu vždy těžší,  
 čím déle je nese, tak bude také stále přibývati utrpení lidstva  
 a vědomí lidské bídy, až posléze lidstvo v bolestném zármutku  
@@ -16,21 +18,11 @@ věda nová, rozumná a živá…_
 
 — Bakunin r. 1869 k mládeži ruské
 
+</section>
 
 
-  
 
-  
-
-  
-
-  
-
-  
-
-  
-
-  
+<section>
 
 Nevím sice, co bych odpověděl, kdyby mě dnes někdo vyzval, abych mu nakreslil a vymaloval růžové poupě. Ale tolik vím najisto, že bych nyní již ani pouhou konturu nedovedl, ačkoli jsem byl ještě před několika lety pokládán od mnohých, zejména od svých učitelů kreslení, za „nepopiratelný talent“.
 
@@ -128,7 +120,9 @@ Přítel stav se učitelem kreslení korunního prince Rudolfa a arcivévodkyn�
 
 Městská rada rodného mého města nechtěla mě za diurnistu, okresní jedno zastupitelstvo nechtělo mě za svého sluhu, a tak stal jsem se nejdříve diletujícím spisovatelem a později žurnalistou, čímž plán v příčině vydání nejkrasších obrazů českých malířů v barvotiscích, když snad právě ne navždy, aspoň na dlouhá léta odročen.
 
-  
+</section>
+
+<section>
 
 Mnohá myšlénka zapustí často kořeny své tak hluboko, že člověku přes všechno vzpírání se i po letech ještě se vrací, jako by chtěla upomenout, že rozechvěvši kdysi mozkové nervy, byla uznána za schopnu života, a přece nebyla zrealizována.
 
@@ -640,7 +634,9 @@ Pozoruje, že se můj lék minul úplně účinkem, a nemaje jiného hned v z�
 
 Vzav nato klobouk odcházím. Ve dveřích volám ještě „Sbohem!“, přítel však neodpovídá; cynická má otázka byla jej skutečně urazila.
 
-  
+</section>
+
+<section>
 
 Přítelův hněv trval několik dní. Potkali jsem se náhodou několikráte na ulici, ale přítel vždy vzdorovitě ode mne se odvrátil.
 
@@ -1220,7 +1216,9 @@ Musím se však upřímně vyznati, že jsem byl tenkráte v největší míře
 
 Duševně a tělesně uštván i unaven dovlékl jsem se domů. Mým mozkem vířily tisíceré myšlenky a po celou noc – vlastně po několik hodin, jež ještě scházely do rána – nemohl jsem rozčilením ani oka zamhouřiti…
 
-  
+</section>
+
+<section>
 
 Od šťastné noci, v které jsme s přítelem nalezli poklad, jehož vypátrání bylo spojeno s tak bezpříkladným duševním namáháním, uplynula asi tři léta, aniž bych se byl o nenadále zmizelém příteli čeho dověděl. Byltě zmizel, nezůstaviv po sobě ani nejmenší stopy.
 
@@ -1660,7 +1658,9 @@ Nežádal jsem již od přítele, aby mi prokázal ve Vídni podobnou ciceronsko
 
 Zanedlouho byl jsem na nádraží a druhého dne časně zrána již v Praze.
 
-  
+</section>
+
+<section>
 
 Od smrti přítele Xaveria uplynuly skoro tři roky, a po celou tu dobu nemohl jsem se odhodlati k návštěvě svatomikulášského chrámu, abych se po letech opět jednou podíval na osudný a tajemný Balkův obraz svatého Xaveria.
 
@@ -1672,7 +1672,9 @@ Když jsem počal psáti toto vypravování, chtěl jsem podivuhodné Balkovo d�
 
 Chrám byl náhodou úplně prázdný.
 
-  
+</section>
+
+<section>
 
 Sotva však jsem přistoupil před obraz a na umírajícího mnicha po­hlédl, zavířily mou duší tisíceré vzpomínky. Připomenul jsem si okamžik, když jsem se před oltářem tím poprvé setkal s přítelem Xaveriem; připomenul jsem si jeho tajuplnou podobnost s tváří umírajícího svatého na obraze, připomenul jsem si bezpříkladně namáhavou duševní jeho práci při šíleném odhalování tajemství Balkova mistrovského díla, jakož i přítelův osud a poslední jeho okamžiky, – a v duši mé vzkypělo cosi jako nevýslovná lítost a nevýslovný hněv.
 
@@ -1681,3 +1683,5 @@ Bylo mi jako člověku, u něhož počínají se jeviti symptomy šílenosti. N
 Naštěstí však se nůž zarazil do dřevěného sloupu oltářního…
 
 Nemohu, a nesmím tudíž nikdy již spatřit Balkovo nesmrtelné dílo, jež bylo příčinou smrti muže, kterýž byl i ve svém poblouznění geniálnější nežli sám původce umírajícího svatého Xaveria.
+
+</section>

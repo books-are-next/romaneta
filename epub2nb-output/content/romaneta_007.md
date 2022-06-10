@@ -3,6 +3,8 @@ title: Ukřižovaná
 contentType: prose
 ---
 
+<section>
+
 _Ó Kriste! Nejsem z těch, již krokem třesoucím  
 plíží se v zádumčivé chrámy k modlitbě;  
 ni z těch, již putujíce ke Kalvárii  
@@ -17,23 +19,17 @@ Pod božským tělem tvým je půda podryta.
 Tvá sláva, Kriste, hyne! Božské tělo tvé  
 na ebenových křížích v prach se rozpadá…_
 
-  
+</section>
+
+<section>
 
 — Z ALFREDA DE MUSSETA
 
+</section>
 
 
-  
 
-  
-
-  
-
-  
-
-  
-
-  
+<section>
 
 Příběh, kterýmž zahajuju své vypravování, udál se v prvních dnech měsíce října roku 1856.
 
@@ -639,7 +635,9 @@ A první a jediný z dřívějších známých, jehož jsem vyhledal, byl jsi
 
 Vypravoval mi sice později mnoho víceméně zajímavých podrobností; ale myslím, že několik těchto črtů úplně dostačí k poznání jeho povahy.
 
-  
+</section>
+
+<section>
 
 Minulo několik týdnů.
 
@@ -1089,7 +1087,9 @@ Přiskočil jsem k němu, ale pomoci mé již nebylo potřebí. Přítel vysko�
 
 Několik okamžiků díval jsem se za ním, jsa na rozpacích, mám-li jej následovat čili nic. Rozhodl jsem se pro první a pospíšil za ním; ale zanedlouho jsem nabyl přesvědčení, že přítele již nedohoním.
 
-  
+</section>
+
+<section>
 
 Jako před lety, když se byla v bytu Schneidrově udála příhoda, kterou mi byl přítel právě vypravoval, pospíšil jsem za přítelem i tentokráte také do jeho bytu na Malé Straně nedaleko budovy vrchního vojenského velitelstva, avšak nezastal jsem ho.
 
@@ -2437,7 +2437,9 @@ Slíbiv, že přání tomu vyhovím, podal jsem příteli ruku, jenž ji srdečn
 
 Když mi byl přítel ještě připomenul, že mi bude při příležitosti z bojiště psát, rozloučili jsme se…
 
-  
+</section>
+
+<section>
 
 Zvláštní poměry nastaly v Čechách před vypuknutím války.
 
@@ -2487,15 +2489,21 @@ Doposud mělo se všeobecně za to, že vojsko rakouské vtrhne do země nepří
 
 Kladu jej zde doslova:
 
-  
+</section>
+
+<section>
 
 … 19. června 1866
 
-  
+</section>
+
+<section>
 
 Milý příteli!
 
-  
+</section>
+
+<section>
 
 Tentokráte neudávám místa, kde tento list píšu, z dvou příčin: jednak abych vyhověl přísnému rozkazu vrchního velitelstva, jednak proto, poněvadž sám si přeju, aby případ, o němž ti píšu, zůstal aspoň nějaký čas ještě tajemstvím. Proto nepřipojuju ani svého jména…
 
@@ -2507,11 +2515,15 @@ Divoce bouří krev v mých žilách, hlava mě pálí a ruka má se chvěje�
 
 … 20. června
 
-  
+</section>
+
+<section>
 
 Odpusť, že jsem list ten včera nedokončil.
 
-  
+</section>
+
+<section>
 
 Musil jsem přestati a pokračuju teprve dnes, když jsem už aspoň poněkud klidnější.
 
@@ -2839,13 +2851,17 @@ Lístek, vlastně jen část lístku toho, jenž mi byl darován, přikládám k
 
 Buď zdráv! Bude-li možno, budu ti psát zase co nejdříve.
 
-  
+</section>
+
+<section>
 
 Potud přítelův dopis.
 
 Avšak lístek, o němž se ku konci zmiňuje, že jej k dopisu svému přikládá, přiložen nebyl.
 
-  
+</section>
+
+<section>
 
 Ode dne, kdy došla z bojiště telegrafická zpráva, že překročil nepřítel hranice a vojsko rakouské že couvá, následovaly zprávy z bo­jiště s nepředvídanou rychlostí za sebou. Brzo došla zvěst o bojích a zanedlouho dopraveni do Prahy první ranění z bitek u Podola a Mnichova Hradiště.
 
@@ -3145,7 +3161,9 @@ Vyhověl jsem jeho přání a vyčkav, až byla rakev přivolanými hrobníky s
 
 Pruský lékař však slibu svému nedostál. O výsledku jeho zkoumání nedověděl jsem se ničeho.
 
-  
+</section>
+
+<section>
 
 Následujícího dne obdržel jsem poštou list.
 
@@ -3165,7 +3183,9 @@ V překladu zněly úryvky ty následovně:
 
 8\. září 1845
 
-  
+</section>
+
+<section>
 
 Přálas sobě, drahá Rút, abych ti napsal, čím končil jsem včera podvečer rozmluvu.
 
@@ -3179,7 +3199,9 @@ Kdež medle jsou meze dobra a zla? Kdo z nás odvážil by se tvrdit: Až potu
 
 * * *
 
-  
+</section>
+
+<section>
 
 … žal i naše radost, naše přání i naše skutky nejsou než výsledkem působení nesčíslných tajemných sil přírodních.
 
@@ -3191,7 +3213,9 @@ Poměrnou harmonii a částečné usmíření nalezneš jen v díle umělecké
 
 * * *
 
-  
+</section>
+
+<section>
 
 … Kdo ví, jak dokonáš. Mně zdá se, že není ani možno, aby kdy jen lehká chmura zármutku zastřela tvou duši. A přece nemohu se ubrániti myšlence, že jako tisícové jiných v hoři a bolesti můžeš dokonat – bez viny…
 
@@ -3199,7 +3223,9 @@ V pýše své domníváme se býti stvořeni k věcem neobyčejným, k život
 
 * * *
 
-  
+</section>
+
+<section>
 
 Chmurný názor v svět, jak se jeví v těchto několika řádkách, a události, o nichž jsem byl právě vypravoval, nezůstaly na mne bez vlivu.
 
@@ -3210,3 +3236,5 @@ Vrátil jsem se sice opět k dřívějším svým studiím, která mi byla př�
 [1](./resources/undefined) Zélóta – příslušník radikální nábožensko-politické sekty ve starověké Pales­tině bojující proti nadvládě Říma; horlivý, fanatický stoupenec. _Pozn. red._
 
 [2](./resources/undefined) Bez přípravy, spatra. _Pozn. red._
+
+</section>

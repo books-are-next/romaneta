@@ -3,6 +3,8 @@ title: Newtonův mozek
 contentType: prose
 ---
 
+<section>
+
 _Památce  
 paní Elišky Šimáčkové, rozené Keblovy_
 
@@ -17,21 +19,11 @@ svých vlastních očí._
 
 Horácio
 
+</section>
 
 
-  
 
-  
-
-  
-
-  
-
-  
-
-  
-
-  
+<section>
 
 Chci vypravovat něco rozmarného a počínám u hrobu… Je to cy­nismus; ale trvám, že po několika vysvětlujících slovech prominou mi i duše nejněžnější…
 
@@ -328,7 +320,9 @@ Obdržel jsem totiž poštou, dle všeho poslední před úplným přerušením 
 
 Vážený pane!
 
-  
+</section>
+
+<section>
 
 Právě byl do našeho města dopraven mladý důstojník, nadporučík pluku Královéhradeckého. Je raněn těžce; má rozťatou lebku a jest úplně bez sebe.
 
@@ -852,7 +846,9 @@ V pozadí a po stranách rakve bylo množství překrásných, vzácných exot
 
 Na rakvi v hlavě byl velký vavřínový věnec, doleji důstojnické čáko a šavle, v nohou pak před rakví bylo viděti jednoduchý epitaf:
 
-  
+</section>
+
+<section>
 
 Bedřich Winscher,
 
@@ -862,7 +858,9 @@ Narozen 7. července 1841,
 
 zemřel 7. července 1866.
 
-  
+</section>
+
+<section>
 
 Překvapení bylo všeobecné. V sále panovalo takové ticho, že bys byl zaslechl i nejjemnější šelest. A tichem tím zazněly po chvíli zdáli, jakoby vycházely z některé z pobočních komnat, tklivé, truchlivé hlasy, pějící známou píseň: „Salve regina“.
 
@@ -1698,7 +1696,9 @@ Hlas přítelův zněl temně; poslední slova sotva jsem doslechl… Pozbyl jse
 
 * * *
 
-  
+</section>
+
+<section>
 
 Kdo usnul někdy na podzim při otevřeném okně a náhle procitnul, ví, jak zvláštní mrazivý pocit procitnutí takové provází…
 
@@ -1734,7 +1734,9 @@ Matička povstala, a nahnuvši se ke mně, políbila mne lehce na čelo – –
 
 * * *
 
-  
+</section>
+
+<section>
 
 Stalo se po radě lékařově…
 
@@ -1745,3 +1747,5 @@ Zanechal jsem na čas studií; ale myšlenky, jež mne byly v oné době proná
 [3](./resources/undefined) Hloupý, drzý, urážlivý výrok. _Pozn. red._
 
 [4](./resources/undefined) Přesvědčivě, nápadně, zřejmě. _Pozn. red._
+
+</section>
