@@ -21,7 +21,6 @@ věda nová, rozumná a živá…_
 </section>
 
 
-
 <section>
 
 Nevím sice, co bych odpověděl, kdyby mě dnes někdo vyzval, abych mu nakreslil a vymaloval růžové poupě. Ale tolik vím najisto, že bych nyní již ani pouhou konturu nedovedl, ačkoli jsem byl ještě před několika lety pokládán od mnohých, zejména od svých učitelů kreslení, za „nepopiratelný talent“.

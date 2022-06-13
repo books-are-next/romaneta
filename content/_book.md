@@ -13,6 +13,7 @@ meta:
   modified: '2021-12-01T00:00:00.000Z'
   edition: beletrie
   publisherShort: mkp
+  isbn: 978-80-274-2501-3
 readingOrder:
   - promo.html
   - romaneta_005.html
