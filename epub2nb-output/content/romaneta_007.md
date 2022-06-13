@@ -28,7 +28,6 @@ na ebenových křížích v prach se rozpadá…_
 </section>
 
 
-
 <section>
 
 Příběh, kterýmž zahajuju své vypravování, udál se v prvních dnech měsíce října roku 1856.
