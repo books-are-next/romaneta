@@ -65,7 +65,7 @@
             "filename": "romaneta_003.md",
             "xhtml": "romaneta_003.xhtml",
             "id": 2,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -77,7 +77,7 @@
             "filename": "romaneta_004.md",
             "xhtml": "romaneta_004.xhtml",
             "id": 3,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -164,7 +164,7 @@
             "filename": "romaneta_011.md",
             "xhtml": "romaneta_011.xhtml",
             "id": 10,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": false,
             "hungry": true,
@@ -339,6 +339,6 @@
       "user": "books-are-next",
       "repo": "romaneta"
     },
-    "generatedAt": 1655979542476
+    "generatedAt": 1657182422642
   }
 }

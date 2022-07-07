@@ -19,7 +19,7 @@ readingOrder:
   - romaneta_005.html
   - romaneta_007.html
   - romaneta_009.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:

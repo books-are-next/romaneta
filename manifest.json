@@ -8,18 +8,18 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "arbes-romaneta-1112f0a",
-  "revision": "1112f0a",
+  "identifier": "arbes-romaneta-d3a604b",
+  "revision": "d3a604b",
   "readingOrder": [
     "promo.html",
     "romaneta_005.html",
     "romaneta_007.html",
     "romaneta_009.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:24:26 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655979866340
+    "date": "Thu Jul 07 2022 08:38:12 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657183092789
   },
   "documents": [
     {
@@ -83,7 +83,7 @@
       "role": "chapter",
       "order": 3,
       "prev": "romaneta_007.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -96,11 +96,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 122,
-      "chars": 821,
+      "chars": 820,
       "ideas": 16,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "romaneta_009.html",
       "next": null,
@@ -118,7 +118,7 @@
   "totals": {
     "all": {
       "words": 83280,
-      "chars": 512602,
+      "chars": 512601,
       "ideas": 3291
     },
     "chapters": {
