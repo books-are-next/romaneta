@@ -196,7 +196,7 @@ Mladý manžel měl pravdu. Větší část hostů skutečně se dívala na novo
 
 Bylo sice zcela zřejmo, že se oba stydí, že snaží se zakrýti svůj hněv a pobouření; ale nic naplat – hovor veden výše naznačeným způsobem dále, vždy prudčeji a vášnivěji.
 
-Každou chvíli bylo slyšeti přitlumeným hlasem pronesenou nějakou sotizu[3](./resources/undefined) z úst manželčiných – on pak ji káral, ona zapírala, že něco podobného pronesla, tvrdíc, že urážlivá slova pronesl on, kdežto on zase svatosvatě ujišťoval, že o ničem neví.
+Každou chvíli bylo slyšeti přitlumeným hlasem pronesenou nějakou sotizu[^3] z úst manželčiných – on pak ji káral, ona zapírala, že něco podobného pronesla, tvrdíc, že urážlivá slova pronesl on, kdežto on zase svatosvatě ujišťoval, že o ničem neví.
 
 Zvláštní, podivný tento spor vždy více se rozčilujících a rozhořčujících mladých lidiček trval skoro půl hodiny.
 
@@ -238,7 +238,7 @@ Ubezpečoval mne, že budu opravdu překvapen, a podle všeho, co jsem byl již
 
 Tak žili a studovali jsme po několik roků. Zpočátku mnohostranné, později pak jednostranné naše studium nezůstalo bez následků.
 
-Krátce před r  1860 propadli jsme ve škole tak eklatantně[4](./resources/undefined), že na takzvanou „opravu“ po prázdninách nebylo možno ani pomysliti. Opakovali jsme tedy a propadli následujícího roku podruhé a po roce – potřetí. Přítelovu otci, kterýž byl svému synkovi častokráte žertem vyhrožoval, že jej dá na ševcovinu, nebude-li ve škole prospívat, konečně došla trpělivost, a po dlouhé, důkladné rodinné poradě usneseno, že bude nejlíp, když se přítel stane – vojákem.
+Krátce před r  1860 propadli jsme ve škole tak eklatantně[^4], že na takzvanou „opravu“ po prázdninách nebylo možno ani pomysliti. Opakovali jsme tedy a propadli následujícího roku podruhé a po roce – potřetí. Přítelovu otci, kterýž byl svému synkovi častokráte žertem vyhrožoval, že jej dá na ševcovinu, nebude-li ve škole prospívat, konečně došla trpělivost, a po dlouhé, důkladné rodinné poradě usneseno, že bude nejlíp, když se přítel stane – vojákem.
 
 Přítel ničeho nenamítal a za krátký čas navštívil mne v mundúru kadeta c. k. pěšího pluku knížete Konstantina ruského.
 
@@ -1743,8 +1743,8 @@ Zanechal jsem na čas studií; ale myšlenky, jež mne byly v oné době proná
 
 * * *
 
-[3](./resources/undefined) Hloupý, drzý, urážlivý výrok. _Pozn. red._
+[^3]: Hloupý, drzý, urážlivý výrok. _Pozn. red._
 
-[4](./resources/undefined) Přesvědčivě, nápadně, zřejmě. _Pozn. red._
+[^4]: Přesvědčivě, nápadně, zřejmě. _Pozn. red._
 
 </section>

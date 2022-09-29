@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "arbes-romaneta-732fcba",
-  "revision": "732fcba",
+  "identifier": "arbes-romaneta-f8d3d21",
+  "revision": "f8d3d21",
   "readingOrder": [
     "promo.html",
     "romaneta_005.html",
@@ -18,8 +18,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 21 2022 14:34:21 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1658414061592
+    "date": "Thu Sep 29 2022 21:33:16 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664487196646
   },
   "documents": [
     {
@@ -58,7 +58,7 @@
       "title": "Ukřižovaná",
       "file": "romaneta_007.html",
       "words": 38915,
-      "chars": 238594,
+      "chars": 238596,
       "ideas": 1584,
       "role": "chapter",
       "order": 2,
@@ -78,7 +78,7 @@
       "title": "Newtonův mozek",
       "file": "romaneta_009.html",
       "words": 21203,
-      "chars": 131954,
+      "chars": 131956,
       "ideas": 857,
       "role": "chapter",
       "order": 3,
@@ -118,12 +118,12 @@
   "totals": {
     "all": {
       "words": 83280,
-      "chars": 512602,
+      "chars": 512606,
       "ideas": 3291
     },
     "chapters": {
       "words": 83153,
-      "chars": 511751,
+      "chars": 511755,
       "ideas": 3271
     }
   }
