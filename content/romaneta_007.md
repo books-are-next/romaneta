@@ -74,7 +74,7 @@ S hlavou k prsům nachýlenou ubíral se rychlým krokem ode dveří prostorem
 
 Byla to tvář přísných, drsných tahů a skoro ohyzdná.
 
-Velký nos, malá sivá očka a nevysoké čelo dodávaly úplné bezvousé, zarudlé tváři té, v níž se zračila mračná přísnost zélóty[1](./resources/undefined), ráz nevlídný, ba odporný. Tmavý kaštanový vlas byl na skráních sčísnut kupředu. Kolem úzkých, pouvadlých rtů pohrávalo časem cosi jako trpká beznadějnost.
+Velký nos, malá sivá očka a nevysoké čelo dodávaly úplné bezvousé, zarudlé tváři té, v níž se zračila mračná přísnost zélóty[^1], ráz nevlídný, ba odporný. Tmavý kaštanový vlas byl na skráních sčísnut kupředu. Kolem úzkých, pouvadlých rtů pohrávalo časem cosi jako trpká beznadějnost.
 
 Drsné tahy chladné, odpuzující tváře byly tím sice poněkud oživeny, ale zároveň zdály se nasvědčovati, že muž ten přes všechno vědění své v životě snad nikdy nebyl šťasten.
 
@@ -130,7 +130,7 @@ Tušil jsem, že děje se v duši přítelově cosi neobyčejného. Nápadné s
 
 A již jsem chtěl vystoupiti ze škamny a upozorniti na to ředitele, zcela klidně přednášejícího; leč zvláštní, neobyčejný případ provedení úmyslu mého zamezil.
 
-Přednášející byl totiž právě v okamžiku tom odložil učební knihu, a sejmuv brejle, chtěl patrně pronésti několik slov k posluchačům ex abrupto[2](./resources/undefined) jako výklad.
+Přednášející byl totiž právě v okamžiku tom odložil učební knihu, a sejmuv brejle, chtěl patrně pronésti několik slov k posluchačům ex abrupto[^2] jako výklad.
 
 Jsa předtím zaujat nápadným chováním se přítele, nedbal jsem přednášky a nevím také, o čem páter Schneider mluvil. Toliko na následující výklad katechetův pamatuju se skoro doslova:
 
@@ -3232,8 +3232,8 @@ Vrátil jsem se sice opět k dřívějším svým studiím, která mi byla př�
 
 * * *
 
-[1](./resources/undefined) Zélóta – příslušník radikální nábožensko-politické sekty ve starověké Pales­tině bojující proti nadvládě Říma; horlivý, fanatický stoupenec. _Pozn. red._
+[^1]: Zélóta – příslušník radikální nábožensko-politické sekty ve starověké Pales­tině bojující proti nadvládě Říma; horlivý, fanatický stoupenec. _Pozn. red._
 
-[2](./resources/undefined) Bez přípravy, spatra. _Pozn. red._
+[^2]: Bez přípravy, spatra. _Pozn. red._
 
 </section>
