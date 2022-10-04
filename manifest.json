@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "arbes-romaneta-88222ba",
-  "revision": "88222ba",
+  "identifier": "arbes-romaneta-f875246",
+  "revision": "f875246",
   "readingOrder": [
     "promo.html",
     "romaneta_005.html",
@@ -18,8 +18,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Oct 04 2022 18:46:24 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664909184417
+    "date": "Tue Oct 04 2022 23:03:46 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664924626383
   },
   "documents": [
     {
