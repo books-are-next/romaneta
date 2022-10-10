@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "arbes-romaneta-f852927",
-  "revision": "f852927",
+  "identifier": "arbes-romaneta-c16c7c6",
+  "revision": "c16c7c6",
   "readingOrder": [
     "promo.html",
     "romaneta_005.html",
@@ -18,8 +18,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 14:07:08 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665151628968
+    "date": "Mon Oct 10 2022 15:59:20 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665417560757
   },
   "documents": [
     {
@@ -98,7 +98,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 119,
-      "chars": 821,
+      "chars": 822,
       "ideas": 13,
       "role": "about",
       "order": null,
@@ -118,7 +118,7 @@
   "totals": {
     "all": {
       "words": 83277,
-      "chars": 512606,
+      "chars": 512607,
       "ideas": 3288
     },
     "chapters": {
